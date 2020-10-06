@@ -1,5 +1,5 @@
 <h1><b>desafio-aluno</b></h1>   
-Neste readme irei dividir as informações relevantes em tópicos, os desafios passados foram:
+Neste readme irei dividir as informações relevantes em tópicos. O desafio passado foi:
 <br><br>
 Criar um projeto qualquer usando Design Patterns e o padrão Strategy.
 
